@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0.0",
   "info": {
-    "title": "\"Splunk Add-on for Splunk Connect for SNNP\"",
+    "title": "Splunk Add-on for Splunk Connect for SNNP",
     "id": {
       "group": null,
       "name": "Splunk_TA_sc4snmp",
@@ -15,7 +15,7 @@
       }
     ],
     "releaseDate": null,
-    "description": "\"Splunk Add-on for Splunk Connect for SNNP\"",
+    "description": "Splunk Add-on for Splunk Connect for SNNP",
     "classification": {
       "intendedAudience": "IT Professionals",
       "categories": [
@@ -36,8 +36,7 @@
     },
     "releaseNotes": {
       "name": "README",
-      "text": "README.txt",
-      "uri": "https://docs.splunk.com/Documentation/AddOns/McAfeeEPOSyslog/About"
+      "text": "README.txt"
     }
   },
   "dependencies": null,
